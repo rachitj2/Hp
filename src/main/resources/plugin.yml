@@ -1,0 +1,6 @@
+name: HPGui
+version: 1.0
+description: Custom HP, Mana, and Hunger GUI
+main: com.example.hpgui.HPGuiPlugin
+authors:
+  - rachitj2
